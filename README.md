@@ -16,4 +16,11 @@ Installation:
 * Open Node chat browser at gwt-node-chat/demo/web/index.html
 * Open GWT chat browser at gwt-node-chat/demo/web/gwt-chat/war/index.html 
 
+
+More Information:
+-------------
+
+http://nextinterfaces.com
+
+
 Copyright (c) 2011 Vancouver Ywebb Consulting Ltd, released under Apache License v.2.0
