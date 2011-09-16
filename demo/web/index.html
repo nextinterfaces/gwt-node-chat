@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>GWT NodeChat</title>
+  
+  <link rel="stylesheet" type="text/css" href="css/layout.css">
+  <script src="js/jquery-1.4.2.js"></script>
+  <script src="js/nodechat.js"></script>
+  <script src="js/client.js"></script>
+</head>
+<body class="login">
+  <header><img src="images/node-chat.png" width="71" height="10" alt="Node Chat" /></header>
+  
+  <form id="login">
+    <h1>Welcome to Node-<strong>Chat</strong></h1>
+    <p>
+      <label for="nick">Please choose a nickname</label>
+      <input type="text" id="nick" maxlength="50" autocomplete="off" />
+    </p>
+  </form>
+  
+  <section id="channel">
+    
+    <section id="frame">
+      <div id="chat-log">
+      </div>
+    </section>
+    
+    <ul id="users" class="button_list">
+    </ul>
+    
+    <form id="entry">
+      <fieldset>
+        <p><input type="text" name="message" value="" autocomplete="off" id="message" /></p>
+        <input type="submit" value="Send" id="Send" />
+      </fieldset>
+    </form>
+    
+    <footer>
+      <p class="credits">
+        Node.js + jQuery Chat Demo by <a href="http://scottgonzalez.com">Scott González</a> <span class="pipe">|</span>
+        User Interface by <a href="http://dougneiner.com">Doug Neiner</a>
+      </p>
+    </footer>
+    
+  </section>
+</body>
+</html>
