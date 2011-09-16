@@ -6,6 +6,9 @@ GWT chat client talking with node.JS chat backend
 ### Demo (YouTube):
 http://www.youtube.com/watch?v=NRT7_-smVbo
 
+### Web:
+http://nextinterfaces.com
+
 Installation:
 -------------
 
