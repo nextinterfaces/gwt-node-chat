@@ -3,12 +3,6 @@ gwt-node-chat
 
 GWT chat client talking with node.JS chat backend
 
-### Demo (YouTube):
-http://www.youtube.com/watch?v=NRT7_-smVbo
-
-### Web:
-http://nextinterfaces.com
-
 Installation:
 -------------
 
@@ -20,10 +14,6 @@ Installation:
 * Open GWT chat browser at gwt-node-chat/demo/web/gwt-chat/war/index.html 
 
 
-More Information:
+Web:
 -------------
-
 http://nextinterfaces.com
-
-
-Copyright (c) 2011 Vancouver Ywebb Consulting Ltd, released under Apache License v.2.0
